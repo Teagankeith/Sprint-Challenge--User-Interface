@@ -168,3 +168,103 @@ footer nav a {
     text-decoration: none;
 }
 
+/* Stretch Goal */
+
+#one{
+   color: blue; 
+   background: yellow;
+}
+
+#one:hover{
+    color: yellow;
+    background: blue;
+}
+
+#two{
+    color: orange; 
+    background: red;
+ }
+
+ #two:hover{
+    color: red;
+    background:orange;
+}
+
+ #three{
+    color: white; 
+    background: green;
+ }
+
+ #three:hover{
+    color: green;
+    background:white;
+}
+
+ #four{
+    color: yellow; 
+    background: purple;
+ }
+
+ #four:hover{
+    color: purple;
+    background: yellow;
+}
+
+ #five{
+    color: pink; 
+    background: salmon;
+ }
+
+ #five:hover{
+    color:salmon;
+    background: pink;
+}
+
+ #six{
+    color: red; 
+    background: orange;
+ }
+ #six:hover{
+    color: orange;
+    background: red;
+}
+
+ #seven{
+    color: rgb(119, 0, 255); 
+    background: rgb(128, 128, 128);
+ }
+
+ #seven:hover{
+    color:  rgb(128, 128, 128);
+    background:  rgb(119, 0, 255); 
+}
+
+ #eight{
+    color: paleturquoise; 
+    background: black;
+ }
+
+ #eight:hover{
+    color: black;
+    background: paleturquoise;
+}
+
+ #nine{
+    color: indigo; 
+    background: lightgrey;
+ }
+
+ #nine:hover{
+    color: lightgrey;
+    background: indigo;
+}
+
+ #ten{
+    color: indianred; 
+    background: blanchedalmond;
+ }
+
+ #ten:hover{
+    color: blanchedalmond;
+    background: indianred;
+}
